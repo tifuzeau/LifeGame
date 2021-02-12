@@ -1,3 +1,6 @@
+# coding: utf8
+# lang: python 3
+
 import time
 import random
 
